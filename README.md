@@ -1,6 +1,6 @@
 # CTIA-Report-Reference
 
-Reference to CISA's [Introduction to Cyber Threat Intelligence Curriculum](https://fedvte.usalearning.gov/publiccourses/ICI/index22.htm)
+Reference to CISA's [Introduction to Cyber Threat Intelligence Curriculum](https://fedvte.usalearning.gov/publiccourses/ICI/index22.htm)<br />
 Based off the book:[Major, J. S. (2014, June 18).  Communicating with Intelligence: Writing and Briefing for National Security (2nd ed.).  London, EN: Rowman and Littlefield.](https://www.amazon.com/Communicating-Intelligence-Briefing-Professional-Education/dp/1442226625/ref=sr_1_1?crid=2MNXGZBPNJ5MO&dib=eyJ2IjoiMSJ9.uVJAb5kkluDrs-hPs6_b126aVXY5AEpEysODRqruAH7yyHG3KfVfcOVfdOOXHuCYFVULnZi6I_r0roQ_JZiAo8pYxIN7cd0Mrb8Z6FzlKtw.udHxlqatxvrhczsh9SuGtvY5BhTjDZQ2PlzsTI-69Gw&dib_tag=se&keywords=James+S.+Major+communicating+with+intelligence&qid=1718602796&s=digital-text&sprefix=james+s.+major+communicating+with+intelligence%2Cdigital-text%2C79&sr=1-1-catcorr)
 
 <h2>CISA’s Recommendation on Intelligence Writing, Why it Matters, and How to Write for Intelligence</h2>
